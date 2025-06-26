@@ -16,6 +16,7 @@ pip install torch==1.9.1+cu111 torchvision==0.10.1+cu111 -f https://download.pyt
 pip install tensorboardx == 2.4
 pip install tensorboard_logger == 0.1.0
 ```
+Use rendering_imge_generate.ipynb to generate the physics rendering images.
 
 ##  Train Pixel GAN:
 ```
