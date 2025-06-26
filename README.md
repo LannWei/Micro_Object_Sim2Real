@@ -1,4 +1,4 @@
-# Micro_Object-_Sim2Real
+# Micro_Object_Sim2Real
 The official implementation of paper: Physics-Informed Machine Learning for Efficient Sim-to-Real Data Augmentation in Micro-Object Pose Estimation
 
 Developers: Zongcai Tan and Lan Wei
